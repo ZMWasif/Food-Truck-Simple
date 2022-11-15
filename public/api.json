@@ -1,0 +1,64 @@
+[
+        {
+            "id":1,
+            "name":"Burger",
+            "price":20 ,
+            "image":"https://img.freepik.com/free-photo/front-view-tasty-meat-burger-with-cheese-salad-dark-background_140725-89597.jpg?w=1060&t=st=1668510819~exp=1668511419~hmac=ba4b0521b4622b7465f16385d754e82ad7b87a6404a44d5a7c309667fa7e6171"
+        },
+        {
+            "id":2,
+            "name":"Pizza",
+            "price":25 ,
+            "image":"https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg?w=1060&t=st=1668512778~exp=1668513378~hmac=aac09567eaf749449b9d67ffcc6623fec916e8f3bf3410f4c0f5f029f75f52ef"
+        },
+        {
+            "id":3,
+            "name":"Pasta",
+            "price":18,
+            "image":"https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19744.jpg?w=1060&t=st=1668512818~exp=1668513418~hmac=c2c7d904cc650aaa09e1de83f232b496ea371cf1e8937581834819f0f167afdb"
+        },
+        {
+            "id":4,
+            "name":"Steak",
+            "price":30,
+            "image":"https://img.freepik.com/free-photo/grilled-beef-steak-dark-wooden-surface_1150-44344.jpg?w=1060&t=st=1668512842~exp=1668513442~hmac=0b8829148ace1cd5efe511b22fdee3d185615066365f37a221552afd4abf06e0"
+        },
+        {
+            "id":5,
+            "name":"Platter-1",
+            "price":35 ,
+            "image":"https://img.freepik.com/free-photo/korean-food-kim-bap-steamed-rice-with-vegetables-seaweed_1150-43007.jpg?w=1060&t=st=1668513139~exp=1668513739~hmac=f21e13fa620a7a4f33a2693685a3db4d07e8a983c7c347fbe22163528fe86689"
+        },
+        {
+            "id":6,
+            "name":"Platter-2",
+            "price":40,
+            "image":"https://img.freepik.com/free-photo/summer-picnic-with-finger-foods-fresh-fruit_53876-104563.jpg?w=1060&t=st=1668512916~exp=1668513516~hmac=4155b0994c71a2f7dde1e3efcef31427bf9cfb14d9546fe741a0951d2ed5e909"
+        },
+        {
+            "id":7,
+            "name":"Chicken",
+            "price":22 ,
+            "image":"https://img.freepik.com/free-photo/crispy-fried-chicken-plate-with-tomato-sauce_1150-20213.jpg?w=1060&t=st=1668512951~exp=1668513551~hmac=07f50239af132f70e987dee5daa666da711546b38f5a0b20c0560c64abd4ddb3"
+        },
+        {
+            "id":8,
+            "name":"Salad",
+            "price":12,
+            "image":"https://img.freepik.com/free-photo/salad-from-tomatoes-cucumber-red-onions-lettuce-leaves-healthy-summer-vitamin-menu-vegan-vegetable-food-vegetarian-dinner-table-top-view-flat-lay_2829-6482.jpg?w=1060&t=st=1668512978~exp=1668513578~hmac=eed44720509c8ca90a326cc4e1c3a173f6700285c75298cb36b9f85283cba5fa"
+        },
+        {
+            "id":9,
+            "name":"Fish & Chips",
+            "price":28 ,
+            "image":"https://img.freepik.com/premium-photo/traditional-british-street-food-fish-chips-with-ketchup-tartar-sauces-mushy-peas-paper-plate_483766-488.jpg?w=1060"
+        },
+        {
+            "id":10,
+            "name":"Cookies",
+            "price":10,
+            "image":"https://img.freepik.com/free-photo/front-view-sugar-cookies-with-red-berries-blue-surface_140725-75007.jpg?w=1060&t=st=1668513087~exp=1668513687~hmac=611166e29e5b64b86be4bc251e9dbabc7f5c27ae5d2a55764d1a97b92064e436"
+        }
+        
+        
+    ]
