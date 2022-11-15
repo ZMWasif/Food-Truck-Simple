@@ -1,10 +1,19 @@
 .product img{
-    width: 400px;
+    width: 386px;
     height: 286px;
+    border-radius: 8px;
+    margin: 8px;
 }
 .product{
-    width: 300px;
-    height: 520px;
+    width: 400px;
+    height: 455px;
+    border: 1px solid #95a0a7;
+    border-radius: 8px;
+    padding: 8px;
+    position: relative;
+}
+.product-info{
+    margin: 14px;
 }
 .product-name{
     font-family: 'Lato';
@@ -12,4 +21,13 @@
     font-weight: 400;
     font-size: 21px;
     line-height: 25px;
+}
+.button-cart{
+    width: 100%;
+    
+    bottom: 0px;
+    
+}
+.button-cart:hover{
+    background-color: #95a0a7;
 }

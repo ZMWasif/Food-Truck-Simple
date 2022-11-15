@@ -7,8 +7,12 @@ const Shop = () => {
     useEffect(() => {
         fetch('api.json')
             .then((res) => res.json())
-            .then((data) =>setProducts(data));
-        }, [])
+            .then((data) => setProducts(data));
+    }, []);
+
+    const handleAddToCart = (product) => {
+        console.log(product);
+    }
     
     return (
         <div className='shop-container'>
@@ -16,13 +20,14 @@ const Shop = () => {
                 {
                     products.map(product => <Product
                         key={product.id}
-                        product ={product}
+                        product={product}
+                        handleAddToCart = {handleAddToCart}
                     
                     ></Product>)
 }
             </div>
             <div className='cart-container'>
-<h3>Order Summary</h3>
+              <h3>Order Summary</h3>
             </div>
         </div>
     );
