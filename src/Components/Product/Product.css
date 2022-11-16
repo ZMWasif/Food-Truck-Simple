@@ -4,6 +4,10 @@
     border-radius: 8px;
     margin: 8px;
 }
+.product img:hover{
+    transform: rotate(360deg);
+  transition: transform 1.5s ease-in-out;
+}
 .product{
     width: 400px;
     height: 470px;
