@@ -6,7 +6,7 @@
 }
 .product{
     width: 400px;
-    height: 455px;
+    height: 470px;
     border: 1px solid #95a0a7;
     border-radius: 8px;
     padding: 8px;
@@ -24,10 +24,15 @@
 }
 .button-cart{
     width: 100%;
-    
     bottom: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     
 }
 .button-cart:hover{
     background-color: #95a0a7;
+}
+.button-cart .button-text{
+    margin-right: 5px;
 }

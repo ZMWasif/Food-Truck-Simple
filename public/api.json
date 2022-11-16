@@ -58,6 +58,36 @@
             "name":"Cookies",
             "price":10,
             "image":"https://img.freepik.com/free-photo/front-view-sugar-cookies-with-red-berries-blue-surface_140725-75007.jpg?w=1060&t=st=1668513087~exp=1668513687~hmac=611166e29e5b64b86be4bc251e9dbabc7f5c27ae5d2a55764d1a97b92064e436"
+        },
+        {
+            "id":11,
+            "name":"Sushi",
+            "price":30,
+            "image":"https://img.freepik.com/free-photo/korean-food-kim-bap-steamed-rice-with-vegetables-seaweed_1150-43007.jpg?w=1060&t=st=1668523682~exp=1668524282~hmac=8390531647265965c03614df6352cad447534dbd4c752076d6ba7d30d3c294f3"
+        },
+        {
+            "id":12,
+            "name":"Shrimp",
+            "price":22,
+            "image":"https://img.freepik.com/premium-photo/fish-shrimp-moqueca_538646-11681.jpg"
+        },
+        {
+            "id":13,
+            "name":"Soup",
+            "price":12,
+            "image":"https://img.freepik.com/free-photo/lentil-soup-with-mixed-ingredients-herbs-white-bowl-with-spoon_114579-3083.jpg?w=1060&t=st=1668523841~exp=1668524441~hmac=4ebc488d1aba6b6f1aa20e48a44b42a211fe77718988214e99493e80965a265d"
+        },
+        {
+            "id":14,
+            "name":"Aloo Potol",
+            "price":20,
+            "image":"https://img.freepik.com/premium-photo/aloo-potol-dalna-recipe-is-traditional-sabzi-from-bengal-made-with-potato-pointed-gourd_466689-86473.jpg?w=1060"
+        },
+        {
+            "id":15,
+            "name":"Fuchka",
+            "price":10,
+            "image":"https://img.freepik.com/free-photo/dahi-puri-chat-is-indian-road-side-snack-item-which-is-especially-popular-state-maharashtra-india_466689-73897.jpg?w=1060&t=st=1668523924~exp=1668524524~hmac=bc66e245a638e510b6713911c965ebfaa46ce08a6bb7346d9cff462f17b18968"
         }
         
         
