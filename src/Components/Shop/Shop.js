@@ -34,6 +34,7 @@ const Shop = () => {
                 ></Cart>
             </div>
         </div>
+        
     );
 };
 

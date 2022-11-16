@@ -2,13 +2,13 @@ import React, { useState } from 'react';
 import './Cart.css'
 const Cart = (props) => {
     const [randomProduct, setRandomProduct] = useState({});
-    const { cart,products } = props;
+    const { cart,clearCart } = props;
 
     const handleRandom = () => {
         const randomNumber = Math.floor(Math.random() * cart.length);
         const item = cart[randomNumber];
         setRandomProduct(item);
-    }
+    };
     return (
         <div className='cart'>
             <h3>Order Summary</h3>
@@ -16,7 +16,7 @@ const Cart = (props) => {
             
             <div>
                 <button className='random-btn' onClick={handleRandom}>Choose one for me</button>
-                <button>Choose again</button>
+                <button onClick={clearCart} className='clear-btn'>Choose again</button>
                  {Object.keys (randomProduct).length >0 && (
                 <div className='cart-item'>
                         <img src={randomProduct.image} alt="" />
